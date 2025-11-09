@@ -16,7 +16,7 @@ sup, ul, li, cite. Hittade 31st men det jag fällde inte ut alla flikar.
 
 1c.Koden för webbsidan har råkat blandas. Byt plats på kodraderna så att de står i samma ordning som på bilden.
 Rätt ordning: 
-<header>
+<--!<header>
 <h1> Biblioteket ugglan </h1>
 <nav>
 <div> Välkommen </div>
@@ -32,7 +32,7 @@ Rätt ordning:
 <li> Lördag: 10-15 </li>
 <li> Söndag: 10-13 </li>
 </ul>
-</main>
+</main> -->
 
 1d.1d Hitta så många fel som möjligt i följande HTML. 
 <section> stängs inte
