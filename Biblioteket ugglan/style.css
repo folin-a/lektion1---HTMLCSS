@@ -1,0 +1,12 @@
+.row {
+    display: flex;
+    gap: 1em;
+    flex-direction: row;
+}
+
+.big-line {
+    border: none;
+    border-top: 2px solid black;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
