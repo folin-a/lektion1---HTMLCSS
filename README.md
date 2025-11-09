@@ -17,28 +17,28 @@ sup, ul, li, cite. Hittade 31st men det jag fällde inte ut alla flikar.
 1c.Koden för webbsidan har råkat blandas. Byt plats på kodraderna så att de står i samma ordning som på bilden.
 Rätt ordning: 
 <--!<header>
-<h1> Biblioteket ugglan </h1>
-<nav>
-<div> Välkommen </div>
-<div> Sök böcker </div>
-<div> Mina lån </div>
-</nav>
-</header>
-<main>
-<h2> Öppettider </h2>
-<p> Våra öppettider är: </p>
-<ul>
-<li> Måndag-fredag: 8-17 </li>
-<li> Lördag: 10-15 </li>
-<li> Söndag: 10-13 </li>
-</ul>
-</main> -->
+"<h1>" Biblioteket ugglan "</h1>"
+"<nav>"
+"<div> Välkommen </div>"
+"<div> Sök böcker </div>"
+"<div> Mina lån </div>"
+"</nav>"
+"</header>"
+"<main>"
+"<h2> Öppettider </h2>"
+"<p> Våra öppettider är: </p>"
+"<ul>"
+"<li> Måndag-fredag: 8-17 </li>"
+"<li> Lördag: 10-15 </li>"
+"<li> Söndag: 10-13 </li>"
+"</ul>"
+"</main>"
 
-1d.1d Hitta så många fel som möjligt i följande HTML. 
-<section> stängs inte
-<h1>stängs inte
-Första <p> har nästlade element i sig, ska stängas direkt efter "..errors", lösa </p> längre ner borde vara här istället
-<img> är inkorrekt, ska ha attributet src (img src="länk") och det ska inte vara en text utan en länk till en bild.
+1d. Hitta så många fel som möjligt i följande HTML. 
+"section" stängs inte
+"h1" stängs inte
+Första "p" har nästlade element i sig, ska stängas direkt efter "..errors", lösa "/p" längre ner borde vara här istället
+"img" är inkorrekt, ska ha attributet src (img src="länk") och det ska inte vara en text utan en länk till en bild.
 Så 5 eller 6 fel beroende på hur du räknar.
 
 2. 
